@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Button.qml</file>
+        <file>qml/FormDinamic.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/TextInputQR.qml</file>
+        <file>qml/Underlining.qml</file>
+        <file>qml/ButtonAndText.qml</file>
+        <file>qml/FormOne.qml</file>
+        <file>qml/FormTwo.qml</file>
+        <file>qml/DinamicCircle.qml</file>
+    </qresource>
+</RCC>
